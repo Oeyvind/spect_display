@@ -13,6 +13,9 @@ Update rate can be set in the range 5 to 50 Hz
 A selection of display colours can be used for each separate audio signal.
 Display tweaking can be done by adjusting line width, fill opacity, and gradient. If gradient is zero, the whole area below the line will be filled with the opacity. The gradient parameter sets the y axis point (0.0 to 1.0) where the gradient transition will occur. Using gradients can enhance display of louder signals, and also make it easier to separate several simultaneous signal displays.
 
+Screenshot of the plugin:
+![alt text](screenshot.png)
+
 ## Getting Started
 
 ### Dependencies
@@ -25,8 +28,6 @@ Download Cabbage from https://cabbageaudio.com/download/, install it.
 Download the spect_display.csd file from the repo. Open it in Cabbage, adn export as VST.
 Put the dll/vst file in the folder where you usually keep your plugins. Open your DAW and load the plugin on an audio track.
 
-This is how it might look
-![alt text](screenshot.png)
 
 ## Help
 

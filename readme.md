@@ -25,14 +25,16 @@ Download Cabbage from https://cabbageaudio.com/download/, install it.
 Download the spect_display.csd file from the repo. Open it in Cabbage, adn export as VST.
 Put the dll/vst file in the folder where you usually keep your plugins. Open your DAW and load the plugin on an audio track.
 
+This is how it might look
+![alt text](screenshot.png)
+
 ## Help
 
-Email me at obrandts@gmail.com, or ask around at the Cabbage forum
+Email me at obrandts@gmail.com, or ask around at the Cabbage forum https://forum.cabbageaudio.com/
 
 ## Authors
 
 Øyvind Brandtsegg 2022
-obrandts@gmail.com
 
 ## License
 

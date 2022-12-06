@@ -1,7 +1,3 @@
-************************************
-
-
-
 # Project Title
 
 Spect_disp: Spectral display with SVG in Cabbage
